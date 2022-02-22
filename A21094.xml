@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East Indian marchants in London, to the East Indies Wherein is set downe the order and manner of their trafficke, the discription of the countries, the nature of the people and their language, with the names of all the men dead in the voyage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21094</idno>
+            <idno type="STC">STC 7459</idno>
+            <idno type="STC">ESTC S113954</idno>
+            <idno type="EEBO-CITATION">99849182</idno>
+            <idno type="PROQUEST">99849182</idno>
+            <idno type="VID">14319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 781:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and large discourse of the voyage of the whole fleete of ships set forth the 20. of Aprill 1601. by the Gouernours and assistants of the East Indian marchants in London, to the East Indies Wherein is set downe the order and manner of their trafficke, the discription of the countries, the nature of the people and their language, with the names of all the men dead in the voyage.</title>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted [by R. Read] for Thomas Thorpe, and are to be solde by William Aspley,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages and travels --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14319:1"/>
+            <pb facs="tcp:14319:1"/>
+            <p>A TRVE AND LARGE DIS<g ref="char:EOLhyphen"/>COVRSE OF THE <g ref="char:V">Ʋ</g>OYAGE OF THE WHOLE FLEETE OF SHIPS SET forth the 20. of Aprill 1601. by the Gouer<g ref="char:EOLhyphen"/>nours and Aſsiſtants of the East Indian Marchants in London, to the <hi>East Indies.</hi>
+            </p>
+            <p>WHEREIN IS SET downe the order and manner of their trafficke, the diſcription of the Countries, the nature of the people and their language, with the names of all the men dead in the Voyage.</p>
+            <p>AT LONDON Imprinted for <hi>Thomas Thorpe,</hi> and are to be ſolde by <hi>William Aſpley.</hi> 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:14319:2"/>
+            <pb facs="tcp:14319:2"/>
+            <head>A TRVE AND LARGE DISCO<g ref="char:V">Ʋ</g>RSE OF THE EAST INDIA VOYAGE DE<g ref="char:EOLhyphen"/>parting out of <hi>England</hi> the 20. day of Aprill 1601.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He 20. of Aprill 1601. we wayed Anchor and ſet ſaile out of <hi>Torbay</hi> by <hi>Dartmouth.</hi>
+            </p>
+            <p>The 2. of May one of our Admiralles men fell ouer<g ref="char:EOLhyphen"/>boord from the maine yard and was drowned.</p>
+            <p>The 7. of May we came to the <hi>Canares,</hi> where the Generall determined to renew our water: but altering his purpoſe, we wayed our Anchors and departed with a faire winde.</p>
+            <p>The 10. of May being Sunday the Generall, Captaines and Maiſters dined a boord the <hi>Hector.</hi> Where the generall deliuered them articles to be obſerued and kept both by ſea and land, and what puniſhme<g ref="char:cmbAbbrStroke">̄</g>t ſhould be inflicted vpon the offenders.</p>
+            <pb n="2" facs="tcp:14319:3"/>
+            <p>The 12. of May wee paſſed the <hi>Tropicke</hi> with a freſh gaile.</p>
+            <p>The 24. we had a great ſtorme.</p>
+            <p>The 25. we had a ſtorme with great ſtore of raine.</p>
+            <p>The 27. we had another ſtorme continuing two houres.</p>
+            <p>The 21. of Iune we tooke a Porting all whoſe lading was Wine, Oyle, and Meale, being about the burthen of 100. tunne; who not reſiſting was diſcharged of his Marchandiſe in foure dayes, to euery ſhip according to his proportion.</p>
+            <p>The 29. of Iune we paſſed the <hi>Equinoctiall,</hi> with a freſh gale of winde.</p>
+            <p>The 12. of Iuly our maiſter Gunner of the <hi>Aſcention</hi> dyed, who was the firſt that dyed in that ſhip: Here we tooke many flying fiſhes in the Aire.</p>
+            <p>The 16. of Iuly we doubled the ſhoales of Braſ<g ref="char:EOLhyphen"/>eele, and for ioy thereof, euery meſſe had a canne of Wine to ſupper.</p>
+            <p>The 20. of Iuly we caſt off the <hi>Guift,</hi> being a<g ref="char:EOLhyphen"/>bout 18. degrees to the South of the <hi>Equinoctiall,</hi> here we tooke more fiſh then we could eate.</p>
+            <p>About the firſt of Auguſt many of our men in euery ſhip fell ſicke of the ſcuruy, ſo that many di<g ref="char:EOLhyphen"/>ed, and few were free of the infection throughout the fleete: ſo that there died 80. men in the fleete before we came to land.</p>
+            <p>The 9. of September, it pleaſed God after our
+<pb n="3" facs="tcp:14319:3"/>long diſtreſſes, to ſend vs to the ſight of land at <hi>Sol<g ref="char:EOLhyphen"/>dania</hi> 16. leagues from the <hi>Cape de bona Eſperance,</hi> and becauſe it was in the night, and all our men ve<g ref="char:EOLhyphen"/>ry weake, we were in great danger, beeing very neare the ſhoare, but God ſtre<g ref="char:cmbAbbrStroke">̄</g>gthned vs, ſo that by his helpe, and the helpe of ſome of our Admiralles men when they had mored their ſhip, we were pre<g ref="char:EOLhyphen"/>ſerued not being able to helpe our ſelues.</p>
+            <p>The 10. day our Generall went a ſhoare to ſee if he could get ſome freſh victuals, and after hee had talked with the countrey people they made ſignes that they would bring Oxen and Sheepe within two or three ſleepes.</p>
+            <p>The 14. day euery ſhip ſent prouiſion on ſhoare for the building of <hi>Tents,</hi> and this day the inhabi<g ref="char:EOLhyphen"/>tantes of the country brought bullockes and ſheep and ſo continued day lie for 12 dayes togeather, ſo that there were bought about 900 or 1000. ſheep and bullockes in that time, The price of a bullock was two peeces of Yron hoopes of 6. inches long a peece, and the price of a ſheepe one peece of the ſame length, prouided that the oxen and ſheepe were fat, or elſe we would not buy them. The people are blacke and goe naked, ſauing that they weare ſhort coates of Seales skinne, and a peece of the ſame skinne about their members, they are tall of ſtature, flat noſed, ſwift in running, they will picke &amp; ſteale, although you looke on them: Their language is very hard to be pronounced by reaſon of a kinde of clacking with the tongue, ſo
+<pb n="4" facs="tcp:14319:4"/>that we could not learne one worde of their lan<g ref="char:EOLhyphen"/>guage: The country is full of pleaſant riuers, there is alſo Deare, Quailes, and Partriges: In this baye there is a ſmall Iland not inhabited nor any good thing groweth: Thither did the general ſe<g ref="char:cmbAbbrStroke">̄</g>d 6. ſheep and two rammes, for the reliefe of ſtrangers that might come thither, which ſhortly after was found there by certaine Flemmings to their reliefe, be<g ref="char:EOLhyphen"/>cauſe they could get no cattell of the country peo<g ref="char:EOLhyphen"/>ple. In this Iland, there is great aboundance of Seales, and Penguines, in ſuch number as is almoſt incredible? The Seales, ſome are iuſſet &amp; ſome are blacke, both vgly &amp; fearefull to looke on, the olde ones which are as big almoſt as a Beare, cry like a Beare, and the young ones crie like vnto Lambes, they haue but two feete, yet they vſe their hinder partes in going, by which meanes, they will goe or clime vp any rocke a great pace, ſome of theſe we killed and made oyle of them, and ſome of the youngeſt we did eate, which to vs ſeemed good meate. They lay partly on land, and partly in the water, for there is their refuge. The Penguine is as ſtrange as the other, being a bird which hath a ſtrange and a proude kinde of going, they are of the bigneſſe of a Ducke, they haue finny wings with which they ſwim a great pace, but cannot flie, and theſe are in ſuch aboundance that you may take them vp with your hands as many as you will, the egges of theſe Penguines was there in ſuch a<g ref="char:EOLhyphen"/>boundance as we could not almoſt go for them, ſo
+<pb n="5" facs="tcp:14319:4"/>that we laded our boat with Seales, Penguines, and egges in two houres; In this Bay likewiſe as it is credibly reported by the Flemmings, there is ano<g ref="char:EOLhyphen"/>ther Iland of Conies, in as great aboundance as the other of Seales and Penguines.</p>
+            <p>Before our departure from hence we had a Ser<g ref="char:EOLhyphen"/>mon and a Communion one a Sunday in the forenoone, and afternoone one of our men which was a Iew, was chriſtened and called <hi>Iohn,</hi> our <hi>Ge<g ref="char:EOLhyphen"/>nerall</hi> being his godfather.</p>
+            <p>The 29. of October we wayed our Anchors, and ſet ſaile, there being dead in the whole fleete at this time 107. and others that were ſicke recoue<g ref="char:EOLhyphen"/>red to health.</p>
+            <p>The firſt of Nouember we doubled the <hi>Cape de<g ref="char:EOLhyphen"/>bona Eſperance</hi> with great ſtore of winde, raine, and haile.</p>
+            <p>The 26. we ſaw Saint <hi>Laurence.</hi>
+            </p>
+            <p>The 2. of December we had ſo many huge and great Grampoyſes about our ſhippe as was ſtrange and wonderfull.</p>
+            <p>The 4. of December we had great ſtormes which continued al day and the ſame night, ſo that we were in danger to looſe ſome of our compa<g ref="char:EOLhyphen"/>ny.</p>
+            <p>The 16. we ſaw the land of <hi>Madagaſcar,</hi> and the Iland of Saint <hi>Marie,</hi> and the next day we caſt an Anchor betweene both landes, and ſent our boats to Saint <hi>Maries</hi> to ſee what was to be gotten; but could get nothing there but Oringes &amp; Lemmans
+<pb n="6" facs="tcp:14319:5"/>of which we made good ſtoare of water, which is the beſt remedy againſt the ſcuruy, here we conti<g ref="char:EOLhyphen"/>nued 3. or 4. dayes but could get no other things, but lemmons, ſome hony combes, ſome milke, and ſome rice which we bought for beades, we ſaw but only one Cow, which they draue away as ſoone as they ſaw vs, whereby we imagined they had ſmall ſtore. The people of this Iland are of a tall ſtature and very well limmed and proportioned ſuch as we haue not ſeene in theſe parts of the world, they go naked ſauing about their members they weare cloath made of the barkes of trees, and the women weare of the ſame ſtuffe from their breaſts to their feete.</p>
+            <p>The 21. we had a mighty ſtorme both of winde and raine, ſo that our ſhip loſt an Anchor, the <hi>Hector</hi> let ſlip her Anchor, and the <hi>Suſan</hi> broake her bow ſprit, and here we were in great danger, by reaſon we were in ſuch a ſtraight betweene two landes: here our ſhip was almoſt aboord the Admirall, but God deliuered vs, this ſtorme continued 12. houres very forcible, in which time two of our Admirals men fell from the maine yarde, whereof one was ſaued and the other drowned, and as the winde was vehement, ſo the aire was very thicke and miſty which made it the more dange<g ref="char:EOLhyphen"/>rous.</p>
+            <p>The 26. day we Anchored in the Baye of <hi>An<g ref="char:EOLhyphen"/>togill,</hi> and the next daye our boates were ſent on ſhoare and meeting with the people of the
+<pb n="7" facs="tcp:14319:5"/>Countrie, we bought of them Rice, Lemmons &amp; Plantons, in great quantitie and number, for we bought a meaſure of Rice which wayed two pounds and a halfe, for a bloud-ſtone, or a blew Bead, and twentie Lemmons, or twentie Plan<g ref="char:EOLhyphen"/>tons for a Bead. In this place they haue ſmall ſtore of Cattell, but they went with vs vnto another Baye, where there was more ſtore, of whome we bought two or three, giuing fiue and thirtie Chri<g ref="char:EOLhyphen"/>ſtall Beads for a Bullocke, and afterwards becauſe they would ſell vs no more, wee went and tooke ſome from them perforce, giuing them in Beads as we paide for the other, to the valew of ten ſhil<g ref="char:EOLhyphen"/>lings.</p>
+            <p>The firſt of Ianuary wee began to build our Pinnace.</p>
+            <p>The 7. of Ianuary, fiue of the <hi>Suſans</hi> compa<g ref="char:EOLhyphen"/>nie, being ſome boyes, and ſome youthes, ſtoale away the Boate from the ſhips ſtearne, thinking to haue gone to the Maine to haue liued there, but by chaunce were eſpyed, ſo that they were faine to put themſelues on ſhoare vppon a ſmall Iland not inhabited, where they continued two or three dayes, and beeing weary of their faire and lodging, came againe aboorde, and were puniſhed for their offences.</p>
+            <p>The 17. of Ianuary, one <hi>Chriſtopher New<g ref="char:EOLhyphen"/>church</hi> our Surgeon of the <hi>Aſcention</hi> poyſoned himſelfe, but it did not worke his death: yet was he greeuouſly tormented for three or foure dayes,
+<pb n="8" facs="tcp:14319:6"/>for which cauſe he was diſmiſſed of his place, and ſhould haue beene left in this place a ſhoare, had not Maiſter <hi>Hauers</hi> intreated for him who tooke him into his ſhippe to liue as an ordynary man.</p>
+            <p>The 4. day of February we had a great ſtorme of winde and raine, which continued all day and the ſame night.</p>
+            <p>The 20. day Maiſter <hi>Brodbancke,</hi> Maiſter of the Admirall died.</p>
+            <p>The 23. day of February, Maiſter <hi>Pullin</hi> our prea<g ref="char:EOLhyphen"/>cher died.</p>
+            <p>The 23. day Maiſter <hi>Napper</hi> Maiſter of the vice Admirall died, and the ſame day one of our Admi<g ref="char:EOLhyphen"/>rals men being ſicke of the Calanture, leaped ouer<g ref="char:EOLhyphen"/>boord and was no more ſeene.</p>
+            <p>The 27. day being Saterday, the lamentableſt accident happened, that happened ſince wee de<g ref="char:EOLhyphen"/>parted England, and thus it was, Maiſter <hi>Winter</hi> the Maiſters Mate of the Admiral dying, the reſt of the Captaines and Maiſters went to his burial and according to the order of the ſea, there was 2. or 3. great ordinances diſcharged at his going a ſhoare, but the maiſter Gunner of the Admirall being not ſo carefull as he ſhould haue beene, vnfortunately killed Maiſter <hi>Brand</hi> Captaine of the <hi>Aſcention</hi> and the Boatſwaines mate of the ſame ſhip, to the great danger of the Maiſter, his mare and another Mar<g ref="char:EOLhyphen"/>chant who were hurt and beſprinckled with the bloud of theſe maſſacred men, ſo theſe men going to the buriall of another were themſelues carryed
+<pb n="9" facs="tcp:14319:6"/>to their owne graues. Thus did we looſe a man re<g ref="char:EOLhyphen"/>ligious, wiſe &amp; prouident; ſuch a one as the whole fleete will miſſe, both for good husbandry, care, and good aduice: Vpon theſe alterations <hi>Roger Hau<g ref="char:EOLhyphen"/>kin</hi> was made maiſter of the Admirall, maiſter <hi>In<g ref="char:EOLhyphen"/>deck</hi> maiſter of the vice Admirall, for maiſter <hi>Nap<g ref="char:EOLhyphen"/>per</hi> was dead, maiſter <hi>Coale</hi> maiſter of the Aſcenti<g ref="char:EOLhyphen"/>on, maiſter <hi>Pope</hi> was made Captaine of the Aſcen<g ref="char:EOLhyphen"/>tion and ſome of the other Marchants remooued ſome to one ſhip, ſome to another.</p>
+            <p>The 4. day of March, wee ſet ſaile out of this tempeſtuous and vnfortunate Baye, where there was many men died of the flixe out of the Admi<g ref="char:EOLhyphen"/>rall. So that wee continued here two monethes and eight dayes, hauing for the moſt part euery daye fearefull thunder, raine and lightenning, as the like is not heard in our countrey, for they haue many ſlaine with the thunder which maketh them make haſt to gette home before night. The people are very induſtrious and take great paines, both in ſetting of Rice which groweth there in great quantytie, ſo that there is whole ſtackes thereof, as alſo in beating and winnowing the ſame. They weaue ſuch thinges as they weare about their bodyes beeing made of the barke of trees. Their houſes are but meane, ſtanding halfe a yarde from the ground and couered with leaues, with a hoale at one ende of the ſame houſe to creepe in at on their knees.
+<pb n="10" facs="tcp:14319:7"/>They loue Wine exceedingly, with which they will bee very drunke: As there is many ſmall townes, ſo there is many Gouernours which are knowne from the other, both by the reuerence is giuen them of the people, and their ornaments of braſſe Rings, and Beades: they are maruelous nimble with their Lawnces and Targets, but very fearefull of our Peeces. The chiefe Gouernour came aboorde of vs with his wife to dinner, where we might perceiue their manner of feeding to be very homely, and for their aſſurance of ſafe<g ref="char:EOLhyphen"/>tie, there was ſo many ſent a ſhoare as came a<g ref="char:EOLhyphen"/>boord, and after dinner, Captaine <hi>Middleton</hi> gaue the principall man a thinne ſhute of <hi>Mancheſter</hi> ſtuffe, which pleaſed him well.</p>
+            <list>
+               <head>Certaine words of their language.</head>
+               <item>
+                  <hi>Taughu,</hi> Wine.</item>
+               <item>
+                  <hi>Rano,</hi> Water.</item>
+               <item>
+                  <hi>Herinco,</hi> Fiſh.</item>
+               <item>
+                  <hi>Bedehang,</hi> Beades.</item>
+               <item>
+                  <hi>Kiſſow,</hi> a Knife.</item>
+               <item>
+                  <hi>Totombar,</hi> Rice.</item>
+               <item>
+                  <hi>Lemona,</hi> Lemons.</item>
+               <item>
+                  <hi>Eeno,</hi> Full.</item>
+               <item>
+                  <hi>Semiſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> no more left.</item>
+               <item>
+                  <hi>Matty,</hi> Thunder.</item>
+               <item>
+                  <hi>Sungo Funſho,</hi> ripe Plantons.</item>
+               <item>
+                  <hi>Eſſa,</hi> One.</item>
+               <item>
+                  <hi>Roe,</hi> Two.</item>
+               <item>
+                  <hi>Tellu,</hi> Three.</item>
+               <item>
+                  <hi>Effa,</hi> Foure.</item>
+               <item>
+                  <hi>Demi,</hi> Fiue.</item>
+               <item>
+                  <hi>Ena,</hi> Six.</item>
+               <item>
+                  <hi>Ceto,</hi> Seuen.</item>
+               <item>
+                  <hi>Vallo,</hi> Eight.</item>
+               <item>
+                  <hi>Ciui,</hi> Nine.</item>
+               <item>
+                  <hi>Foolo,</hi> Ten.</item>
+               <item>
+                  <hi>Beginning againe and reckoning to ten.</hi>
+               </item>
+            </list>
+            <pb n="11" facs="tcp:14319:7"/>
+            <p>The 17. day of Aprill, we paſſed the <hi>Equinocti<g ref="char:EOLhyphen"/>all</hi> line which is the ſecond time that we paſſed it.</p>
+            <p>The 30. day of March we were on the ſhoales of <hi>Adu</hi> which is nine degrees to the South of the <hi>Equinoctiall</hi> and at the firſt ſight of ground (being full of rockes) our ſhip had but 4. fadome and a halfe, here we were in great danger, being incloſed &amp; compaſſed round with rocks as in a pound, and hauing ſpent 2. dayes and nights in turning and re<g ref="char:EOLhyphen"/>turning but could finde no way out, at the length the Pinnace was ſent before to finde where there was leaſt danger, and hauing found 7. or 8 fadom we all followed her and hauing paſſed this danger, we gaue God the praiſe which had mercifully de<g ref="char:EOLhyphen"/>liuered vs.</p>
+            <p>The 7. day of May, we had ſight of <hi>Nicombar,</hi> which is about 40. leagues from <hi>Sumatra,</hi> this night following we had a great ſtorme, and in this ſtorme if God had not deliuered vs wonderfully our ſhip or the <hi>Hector,</hi> or both had ſuncke in the ſea, being almoſt aboord of one another in lying of thoſe I<g ref="char:EOLhyphen"/>lands: this night alſo we loſt company with the Pinnace, but within 2. or 3. dayes ſhe came to vs in that habor, here we ſtayed 9. or 10. dayes to wa<g ref="char:EOLhyphen"/>ter and ballaſt our ſhippes and to mount our or<g ref="char:EOLhyphen"/>dinance. The people of the country brought vs aboord Coaker nuts, Caſſado roots, Pouncea<g ref="char:EOLhyphen"/>trones, and Lemmons, and ſome hens, but they made dainty of their hens, for they would not ſell
+<pb n="12" facs="tcp:14319:8"/>them vnder two Counters a peece, taking them for gould, although they ſolde other things for olde peeces of Linnen, and ſmall peeces of Yron hoopes, ſome of theſe people ſpeake <hi>Portugale,</hi> who tolde vs that the <hi>Portugales</hi> vſe to put into this harbor as they goe to <hi>Mallacca,</hi> and that two <hi>Gallions</hi> were there two moneths before our com<g ref="char:EOLhyphen"/>ming thether, which had bought all the Amber-Greeſe was to be gotten.</p>
+            <p>The 18. day we ſet ſaile from hence, but by rea<g ref="char:EOLhyphen"/>ſon of fowle weather, and contrary windes, our Admirall loſt his boate, and ſprung a leake, and therefore would haue fetched that harbor againe, but could not. So wee went to other Ilands called <hi>Sombrai,</hi> 10. or 12. leagues to lewward <hi>Nicombar.</hi> Heere our <hi>Admirall</hi> loſt an anckor, for the ground is rockie, and full of counterfeit Currall. The pro<g ref="char:EOLhyphen"/>ple of this Iland goe naked, hauing onely their pri<g ref="char:EOLhyphen"/>uities bound vp in a narrow peece of Linne<g ref="char:cmbAbbrStroke">̄</g> cloath, which commeth about their middle like a girdell, and ſo betweene their twiſt: they are of a tawnie couler, they annoint their faces with diuers coul<g ref="char:EOLhyphen"/>lers, they are well limmed, but very fearefull, for they would neither come aboord our ſhips, nor come into our boates: There groweth in this Iland Trees, that for the taleneſſe, greatneſſe, and ſtraightneſſe thereof, they will ſerue the biggeſt Shippe in our Fleete for a maine Maſte, and the Iland is full of theſe Trees.</p>
+            <p>Heere likewiſe we did finde vpon the Sandes a
+<pb n="13" facs="tcp:14319:8"/>ſmall twigge growing vp greene like a young tree, and offering to pull the ſame vp it ſhrinketh into the ground, and ſincketh, vnleſſe you holde very harde, but beeing pulled vp, a great worme growth about the roote thereof, very ſtrange to ſee, of theſe I gathered many. We departed from hence the 29. of this moneth.</p>
+            <p>The 2. of Iune, wee anckored in the roade of <hi>Dachen,</hi> where wee had of the countrie people came aboorde of vs with their Canows, grea<g ref="char:EOLhyphen"/>ter then any wee had ſeene before, hauing raf<g ref="char:EOLhyphen"/>ters of eache ſide of them, ſo that they cannot ſincke.</p>
+            <p>The next day, there came ſome of the Factors for the Flemmings aboorde of vs, to welcome vs into that Countrey. And the ſame daye our <hi>Vize-Admirall</hi> went a ſhoare to the King, with a meſſage from our Generall, accompanied with Maiſter <hi>Salter,</hi> Maiſter <hi>Ianuerme,</hi> and Maiſter <hi>Groue,</hi> who hearing of their landing, ſent them Elephants to ride to his court, being about a mile from the landing place, where they were kindlie entertained, and giuing too the Vize-Admirall, a Roabe and a Tucke of Callico imbrodered with golde.</p>
+            <p>The 4. of Iune being Saterday, the Generall went on ſhoare, accompanied with Captaine <hi>Ha<g ref="char:EOLhyphen"/>uers,</hi> Captaine <hi>Pope,</hi> and many other Marchants, to deliuer the Queenes letter, and to giue him pre<g ref="char:EOLhyphen"/>ſents, which were a Baſon &amp; Ewer of ſiluer, a ſtand<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:14319:9"/>cup of ſiluer, a Head-peece, a paire of Ha<g ref="char:cmbAbbrStroke">̄</g>gers, a Fanne of Fethers, &amp; a Looking-glaſſe: theſe be<g ref="char:EOLhyphen"/>ing deliuered by the Marchants, none pleaſed him ſo well as the Fanne of Feathers, with which hee cauſed his women to Fanne him. Firſt at the Ge<g ref="char:EOLhyphen"/>nerals landing, the Flemmings mette him and car<g ref="char:EOLhyphen"/>ried him to their houſe, where he ſtayed vntill the King ſent for him: In the meane while there came a Noble-man called <hi>Curcon,</hi> who would haue receiued her Maieſties letter to haue deliue<g ref="char:EOLhyphen"/>red it to the King, but our Generall refuſed to de<g ref="char:EOLhyphen"/>liuer it to any, but to the King himſelfe. Then did the King ſend ſixe Elephants for the Generall and his attendants, whereof there was one Elephant which was the greateſt that carried a Cannopie couered with Redde cloath, in which Cannopie was a peece of Silke, and a peece of cloath of gold to carrie her Maieſties letter in, and vpon this Elephant none did ride but he that carried the let<g ref="char:EOLhyphen"/>ter. The Generall ridde vppon another with a guide before him, and vppon the reſt ſome did ride and ſome did not, for it is very vneaſie riding vppon them, their backes are ſo broade, and they ſo great and tall.</p>
+            <p>The King did likewiſe ſend his Trumpets and other Muſicke which played before the Generall to the Courte, and there was twentie other that carried ſtreamers of ſilke of diuers coulours, ac<g ref="char:EOLhyphen"/>cording to that countrie manner. So the Gene<g ref="char:EOLhyphen"/>rall entering into the firſt gate of the Court reſted
+<pb n="15" facs="tcp:14319:9"/>himſelfe there, vntill the King had notice of his comming, who preſently ſent for him, and foure other of the principall men about the Generall, who when they had brought him to the King, came backe for the preſents, which were car<g ref="char:EOLhyphen"/>ryed in by the Marchants appointed for that purpoſe.</p>
+            <p>And after they had paſſed three courtes, they came into a place couered with Cannopies, ad<g ref="char:EOLhyphen"/>ioyning to the Kings Gallerie, where the King ſatte, and after they had giuen <hi>Doulat</hi> to the King, and the King reſaluted them according to their Countrie faſhion, which is by lifting both their handes aboue their heads, they ſatte downe to dinner, where they had great cheere, and to the number of two or three hundreth ſe<g ref="char:EOLhyphen"/>uerall diſhes of meate, baked, roaſted, and boy<g ref="char:EOLhyphen"/>led: The Diſhes and Cuppes wherein they were ſerued, were moſt of goulde, and of a mettall much like to Bell mettall, which is dea<g ref="char:EOLhyphen"/>rer then goulde, euery diſhe couered, ſome with <hi>Purſlain</hi> of <hi>China.</hi> Their drinke is called <hi>Aracke,</hi> and is verye ſtrong, and is not to bee drunke without water, yet that which is gene<g ref="char:EOLhyphen"/>rally drunke in the countrie is nothing ſo ſtrong, nor ſo wholeſome.</p>
+            <p>The King asked our Generall if our Queene were married, &amp; how long ſhe had raigned, which when the Generall had anſwered by his interpre<g ref="char:EOLhyphen"/>tor, the King wondred. The King likewiſe told the
+<pb n="16" facs="tcp:14319:10"/>Generall, if the words in her Maieſties letter came from the hart, he had cauſe to thinke well thereof. Dinner being ended, the King cauſed his Damſels to daunce, and his women to play Muſicke vnto them, who were richly adorned with Bracelets and Iewels, and this was a great fauour: for hee dooth not vſually let them be ſeene to any. The King did likewiſe giue vnto our Generall a fine white Roabe, and a Tucke, imbrodered with gold very ritchly: alſo a great Girdell and two Criſes, all which one of his Noble-men put on in the Kings preſence, and in this manner hee departed the Court and went aboord; and the King ſent him aboorde a Bullocke, and great ſtore of freſh fiſh. So that to conclude, he did receiue hir Maie<g ref="char:EOLhyphen"/>ſties letter with great kindneſſe, and entertained our Generall with greater ſtate then hee is accu<g ref="char:EOLhyphen"/>ſtomed to doe to other nations, as wee might per<g ref="char:EOLhyphen"/>ceiue by diuers Embaſſadors that came thether whileſt we were there.</p>
+            <p>The 5. of Iune Captaine <hi>Pope</hi> went a ſhoare for one of our men which was leſt in the towne all night by his owne negligence, for the Gene<g ref="char:EOLhyphen"/>rall did feare becauſe hee ſpoake <hi>Portugale,</hi> and that there were <hi>Portingalls</hi> in the towne, that hee might make knowne vnto them ſome-thing which might bee preiudiciall to the Fleete, Maiſter <hi>Pope</hi> dined this day with the King, who gaue him a Heyffer to carrie aboorde with him.</p>
+            <pb n="17" facs="tcp:14319:10"/>
+            <p>The 7. day of Iune, after the Generall had li<g ref="char:EOLhyphen"/>cence vnder the Kings hand both for the ſafe lan<g ref="char:EOLhyphen"/>ding of all our marchandiſe, without paying any cuſtome or toale, as alſo that we might buy &amp; ſell of the country people, without let or moleſtation: then did Captaine <hi>Hauers,</hi> Maiſter <hi>Pope, Henry Middleton,</hi> &amp; Maiſter <hi>Starkey</hi> take a houſe, wherin to lay their Marchandiſe.</p>
+            <p>The 8. day of Iune, the Generall went a ſhoare to lodge there.</p>
+            <p>The 11. day of Iune, the King did annoint the Generall with ritch oyntment, and called him his ſonne.</p>
+            <p>About this time one <hi>Thorougood</hi> in our Admi<g ref="char:EOLhyphen"/>rall was araigned, and found guiltie of mutiny and comtempe, and therefore was condemned to bee hanged; but by great intreaty he was forgi<g ref="char:EOLhyphen"/>uen.</p>
+            <p>The 13. day the Generall went to the young Prince, which dwelleth halfe a mile from his fa<g ref="char:EOLhyphen"/>ther, and the Generall gaue him a peece of plate, A paire of hangers and a ſworde, the Prince enter<g ref="char:EOLhyphen"/>tained him kindely, gaue him a roabe and a cri<g ref="char:EOLhyphen"/>ſes, and gaue vnto them which came in with him ruckes of callico Lawne.</p>
+            <p>The 17. day of Iune, one <hi>Curcon</hi> a principall man in that countrie &amp; diuers others, came aboord our ſhips to ſee them, but eſpecially to ſee the <hi>Su<g ref="char:EOLhyphen"/>ſan,</hi> whom the Generall had offered to the King to ſell, for a certaine quantity of Pepper, but could
+<pb n="18" facs="tcp:14319:11"/>not agree, ſo after they had banqueted aboord the Admirall, and dyned aboorde the vice Admirall, they departed with a peale of ordinance.</p>
+            <p>The 19. day the Admirall receiued a boates la<g ref="char:EOLhyphen"/>ding of Pepper which was the firſt was bought, the price was 64. Rialles of eight the Bahar, which is of our waight, reckoning two hundred Catties to a Bahar and euery Catty thirty one Ounces, is three hundred eighty ſeuen pound and a halfe, fiue ſcore to the hundred.</p>
+            <p>During the time we were at <hi>Dachem</hi> the King deſired to haue our Pinnace goe to Pedeir, accom<g ref="char:EOLhyphen"/>panyed with a Portugalles frigat, to take if they might rouers at ſea, which did rob his ſubiectes, and did ſend to the valew of 100. Markes in golde, for thoſe that ſhould be imployed in that buſineſſe, and becauſe the General ſent the Pinnace with 14. or 15. men (of whome <hi>Gabriel Towerſon</hi> was Cap<g ref="char:EOLhyphen"/>taine) but did no ſeruice. Therefore the Generall would haue giuen the King that mony againe but hee would not receiue it by any meanes, ſaying what hee gaue, he gaue, and would not take a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p>And at the ſame time there was ſeuen or eight hundred houſes burnt at ſundry times in <hi>Dachem</hi> while we were there.</p>
+            <p>Therefore the Generall bought an oulde ſtone houſe bui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te it and couered it with ſlate, and at our comming awaye gaue it the king, the
+<pb n="19" facs="tcp:14319:11"/>ground &amp; houſe coſt almoſt one hundred pound ſtarling.</p>
+            <p>The Generall hauing intelligence of the price and goodneſſe of Pepper at <hi>Priaman</hi> and ſeeing the ſmal quantity that was to be gotten at <hi>Dachem,</hi> ſent the <hi>Suſan</hi> thether with our ſmall Pinnace to bring news of her ſucceſſe, and becauſe Captaine <hi>Hauerd</hi> was lately dead, <hi>Henry Middleton</hi> was appointed Cape Marchant in his place.</p>
+            <p>The 24. daye of Iune there came into the road of <hi>Dachem</hi> a Flemmiſh Pinnace which had loſt her Admiral, of which Fleete one <hi>Spilbacke</hi> of Middle-bourough was Generall, ſhee was of the burthen of fifty tunne, and had but three men and two boyes in her, which Pinnace our General bought, for they miſtruſted they ſhould not heare of their Generall againe.</p>
+            <p>There came alſo into the roade of <hi>Daehem</hi> a great ſhippe of Saint Mallos in Fraunce of the burthen of foure hundred tunne. The Generall his name was <hi>Mounſer de Bardeler,</hi> they loſt their vice Admirall by Shipwracke vppon the <hi>Maldeus</hi> &amp; departed from <hi>Dachem</hi> for France with about 14. tunne of Pepper, ſome ſmale quantity of Sinamon, and ſome Indico, ſo that he had not halfe of his lading.</p>
+            <p>The 8. day of September, came into this roade two flemiſh ſhips from <hi>Seylon</hi> with Sinamon vn<g ref="char:EOLhyphen"/>to whome did belong the Pinnace that our Ge<g ref="char:EOLhyphen"/>nerall
+<pb n="20" facs="tcp:14319:12"/>bought, and becauſe our Generall had reſol<g ref="char:EOLhyphen"/>ued to goe for Malacca, he did take the Admirall of the flemmings with him being about 200, tunne and very well manned, and in conſideration there<g ref="char:EOLhyphen"/>of to haue the 8. part of what was taken, &amp; for our owne fleete the General had compounded that the company ſhould haue the ſixt part.</p>
+            <p>The 11. day of September, our <hi>Admiral, vice Admi<g ref="char:EOLhyphen"/>rall, Rear Admirall,</hi> &amp; the flemiſh ſhip and Pinnace departed hence for the ſtraightes of <hi>Malacca</hi> our generall dangerouſly ſicke. Captaine Pope dyed. During the time of the Generalles abſence, the French men had raiſed the price of Pepper, from 24. Tayes the Bahar to 27. and 30. and 32. ſo that we were forced to buy ſome of that price.</p>
+            <p>The 3. day of October, being in the ſtraites of <hi>Mallacca</hi> the <hi>Hector</hi> eſpyed a great ſhip towardes e<g ref="char:EOLhyphen"/>uening which came from S. <hi>Thoma,</hi> &amp; was bound for <hi>Malacca,</hi> and the next morning yeelded them<g ref="char:EOLhyphen"/>ſelues without any reſiſtance, or ſo much as any one man hurt, this day we beganne to vnlade her, and had out of hir 950. packes of Calico, and Pen<g ref="char:EOLhyphen"/>tadoes, beſides many great cheſtes with Marchan<g ref="char:EOLhyphen"/>diſe, all which was vpon her orlops, But her hould was full of Rice, and becauſe of a ſtorme, that did ariſe we were forced to leaue hir with that great aboundance of Rice, and with ſtore of victuals as Porke, Butter, Cheeſe, Ruske, conſerues, ſuc<g ref="char:EOLhyphen"/>kets, hens in pickle, hens preſerued with ſtore of Sinamon water, and palmeto Wine: the name of
+<pb n="21" facs="tcp:14319:12"/>this ſhip was the Saint <hi>Anthony,</hi> and of the bur<g ref="char:EOLhyphen"/>then of 700. tun: and it was ſtrange to ſee the num<g ref="char:EOLhyphen"/>ber of men, women and children that were in her not ſo few as 600. perſons whereof there was but a few Portingalles, the reſt paſſengers and People of theſe countries. And in 6. dayes we had diſchar<g ref="char:EOLhyphen"/>ged her of the beſt of her lading, and would haue taken more if we had had time and place. Thus our fleete returning to <hi>Dachin</hi> the 28 of October, our Generall gaue order, for the ſhipping as well of ſuch Marchandiſe as came out of England and was vnſould, as alſo all ſuch Pepper, and Sinna<g ref="char:EOLhyphen"/>mon as was bought in the abſence of the fleete, and made what ſpeede poſſible might bee for our departures thence. At this time came our Pinnace from <hi>Priaman</hi> with letters to our Ge<g ref="char:EOLhyphen"/>nerall, where was good newes, both for the price and quantity of Pepper, vppon the re<g ref="char:EOLhyphen"/>ceite whereof the Generall ſent the Pinnace which we bought of the flemmings to <hi>Priaman,</hi> with ſome of the priſed goodes and other com<g ref="char:EOLhyphen"/>modities.</p>
+            <p>The King of this Countrey is very ritch in<g ref="char:EOLhyphen"/>treaſure, and ſtrong in the number of men, he hath great ſtore of Ordinance of Braſſe, and thoſe verye great and Maſſey, their Lawes are ſeuerely inflicted vpon them that offend, either by deliuering them to the <hi>Elephantes</hi> to be deuoured or cutting of their Noſes, and eares, accord<g ref="char:EOLhyphen"/>ing to the haynouſneſſe of the offence. They
+<pb n="22" facs="tcp:14319:13"/>bury their dead with great ſolemnitie, &amp; mourne ouer their graues certaine dayes, ſetting vp at each ende of their Graues either one or two ſtones, carued according to the abilitie of the perſon, and they are buryed together in families. The people are verye ſubtill and cunning in bargai<g ref="char:EOLhyphen"/>ning, and vnconſtant in all their wordes, for they will ſell one thing to diuers men, and take earneſt of them all; and if another will giue any thing more, he ſhall haue it. Their coyne is goulde and lead, that of goulde they call <hi>Maſſe,</hi> ſixe of them for a Royall of eight: Thoſe of Lead they call <hi>Caſhe,</hi> whereof 2100. maketh a <hi>Maſſe,</hi> ſo that a <hi>Copaine</hi> is the fourth part of a <hi>Maſſe,</hi> being 525. <hi>Caſhe,</hi> for which you may buye Hearbes and Fruites, and Fiſhe: euery daye in the weeke is a market day for victualls, not ſo much as Friday which they call their Good-day; but they keepe no ſhoppes open for Marchandize on that daye. There is great ſtore of Hennes, Buffles and Bul<g ref="char:EOLhyphen"/>lockes, yet very deare, a Henne at nine pence or twelue pence, Buffels at two Tayes and a halfe, which is thirtie ſhillings ſtarling, Egges, eighteene or twentie for nine pence: and at our comming away, foureteene for nine pence: Rice is brought from other places thether, as good Marchandize, and is ſolde by the <hi>Bambue,</hi> ſixe or ſeauen <hi>Bambues</hi> for nine pence, euery <hi>Bambue</hi> being an Ale quarte; So that in this place there is neither marchandize nor any thing elſe good cheape of it ſelfe, the
+<pb n="23" facs="tcp:14319:13"/>countrie is very vnwholſome, that almoſt it may be ſaid of it, as it is ſaid of <hi>Malacca,</hi> fewe come the<g ref="char:EOLhyphen"/>ther, but eyther looſe hide or hayre: heere we loſt ten or twelue men out of our ſhip. There are E<g ref="char:EOLhyphen"/>lephants in greater number and bigger ſtature, then in any of thoſe parts, which are the chiefe ſtrength of this land, the greateſt is ruled with a little Boye, hauing a ſticke with a hooke at the end, and is of the greateſt vnderſtanding of any beaſt liuing: as for their ſtrength, I did ſee one drawe the Kings Frigat laden with Pepper, which was a ground, being ten or twelue tunne, very ea<g ref="char:EOLhyphen"/>ſilie. The King taketh pleaſure to ſee them fight, as likewiſe in Cock-fighting, at which game they lay a hundred pound, or a hundred &amp; fiftie pound Starling on a Cockes head. Their Shippes, Sayles, Maſtes, Anchors, and Cables, are all of wood.</p>
+            <list>
+               <head>
+                  <hi>Malies</hi> ſpeech, ſuch as is vſed in theſe <hi>Indies.</hi>
+               </head>
+               <item>1. <hi>Satu.</hi>
+               </item>
+               <item>2. <hi>Dua.</hi>
+               </item>
+               <item>3. <hi>Tiga.</hi>
+               </item>
+               <item>4. <hi>Vmpat</hi>
+               </item>
+               <item>5. <hi>Lema.</hi>
+               </item>
+               <item>6. <hi>Nam.</hi>
+               </item>
+               <item>7. <hi>Toufeurs.</hi>
+               </item>
+               <item>8. <hi>Delapan.</hi>
+               </item>
+               <item>9. <hi>Simbalan.</hi>
+               </item>
+               <item>10. <hi>Sapula.</hi>
+               </item>
+               <item>11. <hi>Sablas.</hi>
+               </item>
+               <item>12. <hi>Duo blas.</hi>
+               </item>
+               <item>13. <hi>Tiga blas.</hi>
+               </item>
+               <item>14. <hi>Vmpat blas,</hi> &amp;c.</item>
+               <item>100. <hi>Saratus.</hi>
+               </item>
+               <item>
+                  <hi>1000. Sariba.</hi>
+               </item>
+               <pb n="24" facs="tcp:14319:14"/>
+               <item>
+                  <hi>Pege,</hi> Goe.</item>
+               <item>
+                  <hi>Marre,</hi> Come hether.</item>
+               <item>
+                  <hi>Barapa,</hi> How ſell you.</item>
+               <item>
+                  <hi>Iam,</hi> A Henne.</item>
+               <item>
+                  <hi>Tellor,</hi> Egges.</item>
+               <item>
+                  <hi>Deduc,</hi> Sit downe.</item>
+               <item>
+                  <hi>Mana pege,</hi> whether go you.</item>
+               <item>
+                  <hi>Harry,</hi> A day,</item>
+               <item>
+                  <hi>Campan,</hi> A Ship.</item>
+               <item>
+                  <hi>Praw,</hi> A Boate.</item>
+               <item>
+                  <hi>Baraſſ,</hi> Rice.</item>
+               <item>
+                  <hi>Ladda,</hi> Pepper.</item>
+               <item>
+                  <hi>Ladda ſula,</hi> White Pep<g ref="char:EOLhyphen"/>per.</item>
+               <item>
+                  <hi>Tanna,</hi> Earth.</item>
+               <item>
+                  <hi>Roma,</hi> A houſe.</item>
+               <item>
+                  <hi>Macan,</hi> Eate.</item>
+               <item>
+                  <hi>Babbe,</hi> Porcke.</item>
+               <item>
+                  <hi>Pedang,</hi> A Sworde.</item>
+               <item>
+                  <hi>Cheremin,</hi> A Glaſſe.</item>
+               <item>
+                  <hi>Baick,</hi> Good.</item>
+               <item>
+                  <hi>Teda baick,</hi> Not good.</item>
+               <item>
+                  <hi>Carron,</hi> A bagge.</item>
+               <item>
+                  <hi>Tally,</hi> A Corde.</item>
+               <item>
+                  <hi>Suda,</hi> Quickly.</item>
+               <item>
+                  <hi>Iſuc,</hi> To morrow.</item>
+               <item>
+                  <hi>Bree,</hi> Giue me.</item>
+               <item>
+                  <hi>Rotan,</hi> that which they bind their houſes with.</item>
+               <item>
+                  <hi>Cring,</hi> Drye.</item>
+               <item>
+                  <hi>Aire,</hi> Water.</item>
+               <item>
+                  <hi>Appe,</hi> Fire.</item>
+               <item>
+                  <hi>Attowan,</hi> Sir.</item>
+               <item>
+                  <hi>Roge, Sultan,</hi> The King.</item>
+               <item>
+                  <hi>Taw,</hi> I vnderſtand you.</item>
+               <item>
+                  <hi>Tida tau,</hi> I doe not vn<g ref="char:EOLhyphen"/>derſtand.</item>
+               <item>
+                  <hi>Gyngo,</hi> A Iewes Harpe.</item>
+               <item>
+                  <hi>Suſſu,</hi> Milke.</item>
+            </list>
+            <p>When we were ready to depart this Roade, we had a hundred and foure-ſcore men dead in the whole Fleete.</p>
+            <pb n="25" facs="tcp:14319:14"/>
+            <p>The 11. of Nouember we wayed anchor alto<g ref="char:EOLhyphen"/>gether, and the 13 of the ſame moneth, we parted with our Generall and Vize-Admirall, they went to <hi>Priaman</hi> where the <hi>Suſan</hi> did lade, and from thence to <hi>Bantam</hi> (for there is the beſt ſaile for ſuch commodities as were taken in the Priſe, of any place in all the <hi>Indies</hi>) and we for England: <hi>Deus vortat bene.</hi>
+            </p>
+            <p>The 11. of December we had the Moonſoon or trade winde, and ſo continued ſayling before the winde vnto the firſt of Ianuarie, after which time wee found the winde variable, being in the height of 20. degrees to the South of the line.</p>
+            <p>The 11. of Ianuary hauing a ſtorme in the night, we had ſixe <hi>Corpus Sanctus,</hi> ſo called by the <hi>Por<g ref="char:EOLhyphen"/>tingals;</hi> whereof three were vpon our Maine top Maſte head, two on our fore-top, and one vpon our flagge ſtaffe, they ſeemed to vs to be as bigge as the biggeſt Starres, and are neuer ſeene but in ſtormes, and vaniſh away before the ſtorme en<g ref="char:EOLhyphen"/>deth: if they be ſeene in the cheanes or ſhrowds of the ſhip, it is a ſigne the ſtorme is of longer continuance, if in the higheſt toppes, it is like<g ref="char:EOLhyphen"/>wiſe a ſigne the ſtorme is ended, and ſo we found it for certaine.</p>
+            <p>About this time our Maiſter Gunner, and an other of the Gunner roome dyed.</p>
+            <p>The 13. day we ſaw two Marmaides, and as we iudged them, they were Male and Female, be<g ref="char:EOLhyphen"/>cauſe the Moſſe of one of their heads was longer
+<pb n="26" facs="tcp:14319:15"/>then the other, their heades are very round, and their hinder parts are deuided like two legges, they ſay they are ſignes of ſtormy weather; and ſo we found it, For the 17. day following we had a great ſtorme with a contrary winde which continued 4. dayes.</p>
+            <p>The 22 the French ſhip which we left at <hi>Dachem</hi> ouertooke vs, being in the height of 33. and a halfe and about 250 or 300 leagues from <hi>Cape de bona Eſperance</hi> who was glad of our company, both in regard their ſhip was ſo leake, that they were faine to pumpe almoſt continually, as alſo they had hope to be releeued of vs with victualles for they had nothing but Rice and water: we caught daylie for ſixe weekes ſpace great ſtore of fiſh more then wee coulde eate, as of <hi>Albecores, Bonitos</hi> and <hi>Dolphins.</hi>
+            </p>
+            <p>From the 22. to the 30. we had a faire winde at E. S. E on which day being in 34 and a halfe we had a great ſtorme, and as it was great, ſo it was ſuddaine before we could take in our ſailes which maketh them dangerous, wee laye at Hull two dayes, after which time we had a faire winde at E and by S. being about 60. leagues from <hi>Cape de bona Eſperance.</hi>
+            </p>
+            <p>The 3. of February one of our men going to the toppe maſt head eſpied the <hi>Cape de bona,</hi> &amp;c as alſo two Holland ſhippes, to our great ioye and com<g ref="char:EOLhyphen"/>fort, for whome we ſtayed, and whereas before, the French and we had reſolued to goe into <hi>Solda<g ref="char:EOLhyphen"/>nia</hi>
+               <pb n="27" facs="tcp:14319:15"/>road the next morning, by reaſon of their com<g ref="char:EOLhyphen"/>pany, we ſhapte our courſe for S. <hi>Hellena.</hi> Theſe two ſhips had beene at <hi>Paetania</hi> where they laded pep<g ref="char:EOLhyphen"/>per, and at the <hi>Molucos</hi> where they had Cloues, &amp; vpon the coaſt of <hi>China</hi> where they bought Silkes both raw &amp; twiſted, ſo that their lading was very rich. The Admiral being of the burthe<g ref="char:cmbAbbrStroke">̄</g> of 600. tun, and the other 200. tun, both well appointed with men and Ordinance, ſauing that ſome of their men were ſicke, and when we had toulde them that our Admirall, and vice Admirall, were gone to <hi>Ban<g ref="char:EOLhyphen"/>tam,</hi> they tould vs of a certaine they ſhould ſoone be laden, and at a low price, for they came from thence, and at their firſt comming thether, the Countrey thought they had come thither to buy Pepper, but when they ſawe they were laden al<g ref="char:EOLhyphen"/>ready, they would haue ſoulde it for any price, ſo that in regarde of the Marchandiſe our Gene<g ref="char:EOLhyphen"/>nerall carryeth with him (which is the prize goodes) and the great quantytie of Peper which they haue no meanes to vtter, there is no doubt by the grace of God, but they ſhall bee la<g ref="char:EOLhyphen"/>den good cheape, and in verye ſhort time, A<g ref="char:EOLhyphen"/>men.</p>
+            <p>The 20. daye of Februarye wee had ſight of Sainte <hi>Hellena</hi> and the twentye one daye wee anchored in the roade, where wee deli<g ref="char:EOLhyphen"/>uered vnto the French-men, and vnto the Hollanders ſuch victualies to relieue them as
+<pb n="28" facs="tcp:14319:16"/>we could ſpare, which was ſixe hogſheades of Porke, two hundreth of Stockfiſh, one hogſhead of Beanes, and fiue hundred of bread, whereof the hollanders were in great want. This Iland is not an earthly Paradice as it is reported, but it is a place of good water, &amp; ſome Lemmon trees, &amp; Fig trees, planted by the Portingalles, &amp; great ſtoare of goats and hogges, and partridges, but not to be gotten without great labour and paines, for they are wilde, and the Iland full of great high hilles. The greateſt refreſhing in this place is fiſh in great aboundance, ſo that all our ſhippes haue taken in one day foure hundred fiſh, here did one <hi>Moore</hi> die, which was one of our Maiſter his mates, he was ſicke euer ſince we came from <hi>Dachin.</hi>
+            </p>
+            <p>The 9, day of March, the French-men departed this roade.</p>
+            <p>The 14. day of March, the Generall of the flem<g ref="char:EOLhyphen"/>mings Anchor came home, which cauſed vs to de<g ref="char:EOLhyphen"/>part thence the ſame day, for their men were well recouered and refreſhed.</p>
+            <p>The 21. day of March, we had ſight of the <hi>Aſ<g ref="char:EOLhyphen"/>cention</hi> Iland which lyeth in eight degrees to the South of the <hi>Equinoctiall.</hi>
+            </p>
+            <p>The 28. and 29 very little winde.</p>
+            <p>The 30. day of March, we paſled the <hi>Equinoc<g ref="char:EOLhyphen"/>tiall</hi> line, with a fine gale which is the fourth time we paſſed it.</p>
+            <p>The firſt of Aprill calme.</p>
+            <p>The 3.4. and 5. very calme, much raine, and the
+<pb n="29" facs="tcp:14319:16"/>winde verye mutable beeing in 2. degrees to the North-ward of the line.</p>
+            <p>The 6.7.8. and 9. a freſh gaile.</p>
+            <p>The 21. day of Aprill, we entred the <hi>Saragoſs</hi> ſea being in 19. degrees.</p>
+            <p>The 25. day we paſſed the Tropickes, the ſame day one of our men died.</p>
+            <p>The laſt of Aprill wee were in 30. degrees, and the next day we had a great gaile with ſome raine.</p>
+            <p>The 15. day of May, we were in 40. degrees and in the height of <hi>Flore,</hi> and <hi>Corues,</hi> heere the windes were variable and very colde.</p>
+            <p>The 25. day we ſaw a ſmall ſhip but could not ſpeake with her.</p>
+            <p>The firſt of Iune, we were in 44. degrees ⅓. ha<g ref="char:EOLhyphen"/>uing a good gaile of winde at the South-weſt, we holding our courſe North-eaſt.</p>
+            <p>The 5. day we ſounded, and found ground at 94. fadome.</p>
+            <p>The eight day of May, we had ſight of the <hi>Li<g ref="char:EOLhyphen"/>zard,</hi> and ſo with out ſtay to the Downes, &amp; from thence into the riuer to Woolwich, God be pray<g ref="char:EOLhyphen"/>ſed for it, and ſend the reſt home in ſafety.</p>
+            <list>
+               <pb facs="tcp:14319:17"/>
+               <head>Certaine words of <hi>Pegu</hi> language.</head>
+               <item>
+                  <hi>Mugaru,</hi> what call you it.</item>
+               <item>
+                  <hi>Kidnan tiuan,</hi> Giue mee bread.</item>
+               <item>
+                  <hi>Fegoe,</hi> a Catte.</item>
+               <item>
+                  <hi>Boon,</hi> A Knife.</item>
+               <item>
+                  <hi>Tobacu,</hi> A Pen.</item>
+               <item>
+                  <hi>Slappoit,</hi> A Booke.</item>
+               <item>
+                  <hi>Pappoit,</hi> A Table booke.</item>
+               <item>
+                  <hi>Memuru,</hi> What is your name?</item>
+               <item>
+                  <hi>Talla,</hi> A Cheſt.</item>
+               <item>
+                  <hi>Tene,</hi> A Pillow.</item>
+               <item>
+                  <hi>Tayongabalon,</hi> a Maſte.</item>
+               <item>
+                  <hi>Pomeé,</hi> Breeches.</item>
+               <item>
+                  <hi>Cheochum,</hi> Stockins.</item>
+               <item>
+                  <hi>Botoway,</hi> A Thombe.</item>
+               <item>
+                  <hi>Toway,</hi> a fiſt.</item>
+               <item>
+                  <hi>Cadup,</hi> a head.</item>
+               <item>
+                  <hi>Suck,</hi> haire of the head.</item>
+               <item>
+                  <hi>Slagota,</hi> the eare.</item>
+               <item>
+                  <hi>Yu, yu,</hi> I, I.</item>
+               <item>
+                  <hi>Moat,</hi> eyes.</item>
+               <item>
+                  <hi>Tegla,</hi> By and by.</item>
+               <item>
+                  <hi>Ciniaut,</hi> Let me ſee.</item>
+               <item>
+                  <hi>Catu,</hi> The Moone.</item>
+               <item>
+                  <hi>Shenon,</hi> A Starre.</item>
+               <item>
+                  <hi>Yacata,</hi> The morning.</item>
+               <item>
+                  <hi>Keka,</hi> Good.</item>
+               <item>
+                  <hi>Kecho,</hi> ſit downe.</item>
+               <item>
+                  <hi>Cacadòe,</hi> The palme of the head.</item>
+               <item>
+                  <hi>Sanimbodoway,</hi> the naile of the hand.</item>
+               <item>
+                  <hi>Nepóe,</hi> Sir.</item>
+               <item>
+                  <hi>Mucherow,</hi> how ſell you.</item>
+               <item>
+                  <hi>Cabang,</hi> A Ship.</item>
+               <item>
+                  <hi>Aw, aw,</hi> what ſay you?</item>
+               <item>
+                  <hi>Braw,</hi> A Woman.</item>
+               <item>
+                  <hi>True,</hi> A Man.</item>
+               <item>
+                  <hi>Fekeé,</hi> A Whoore.</item>
+               <item>
+                  <hi>Oiara,</hi> I will goe.</item>
+               <item>
+                  <hi>Tamonra,</hi> Farewell.</item>
+               <item>
+                  <hi>Keag,</hi> God.</item>
+               <item>
+                  <hi>Cling, Clang,</hi> Much.</item>
+               <item>
+                  <hi>Nung, nung,</hi> come hither</item>
+               <item>
+                  <hi>Cooke,</hi> Come hither,</item>
+               <item>
+                  <hi>Cleá,</hi> Dogge.</item>
+               <item>
+                  <hi>Cle,</hi> Bite.</item>
+               <item>
+                  <hi>Kleg,</hi> A Hogge.</item>
+               <item>
+                  <hi>Togatu,</hi> Noone.</item>
+               <item>
+                  <hi>Daick,</hi> Water.</item>
+               <item>
+                  <hi>Carrow toway,</hi> waſh ha<g ref="char:cmbAbbrStroke">̄</g>ds</item>
+               <item>
+                  <hi>Kſole,</hi> To ſpit.</item>
+               <item>
+                  <hi>Stcake,</hi> Sleepe.</item>
+               <item>
+                  <hi>Notada,</hi> Ariſe.</item>
+               <item>
+                  <hi>Tarangcatu,</hi> A doore.</item>
+               <item>
+                  <hi>Poctarang,</hi> ope<g ref="char:cmbAbbrStroke">̄</g> the dore.</item>
+               <item>
+                  <hi>Dotarang,</hi> ſhut the dore.</item>
+               <item>
+                  <hi>Chulay,</hi> let it downe.</item>
+               <item>
+                  <hi>Downang,</hi> Take vp.</item>
+            </list>
+            <div type="lists_of_deceased_seamen">
+               <pb n="31" facs="tcp:14319:17"/>
+               <list>
+                  <head>
+                     <g ref="char:leaf">❧</g> A note of the mens names deceaſed out of the <hi>Dragon.</hi>
+                  </head>
+                  <item>
+                     <hi>1</hi> William Thomſon.</item>
+                  <item>
+                     <hi>2</hi> Iob: Harket.</item>
+                  <item>
+                     <hi>3</hi> William Allin.</item>
+                  <item>
+                     <hi>4</hi> Raphe Arden.</item>
+                  <item>
+                     <hi>5</hi> Chriſtopher Scot.</item>
+                  <item>
+                     <hi>6</hi> Edward Maior.</item>
+                  <item>
+                     <hi>7</hi> Thomas May.</item>
+                  <item>
+                     <hi>8</hi> Iohn Pegoune.</item>
+                  <item>
+                     <hi>9</hi> Iohn Iohnſon.</item>
+                  <item>
+                     <hi>10</hi> Philip Salisbury.</item>
+                  <item>
+                     <hi>11</hi> Edmund Dauies.</item>
+                  <item>
+                     <hi>12</hi> Richard Ioanes.</item>
+                  <item>
+                     <hi>13</hi> Daniell Richardſon.</item>
+                  <item>
+                     <hi>14</hi> Iohn Clackſon.</item>
+                  <item>
+                     <hi>15</hi> Robert Poppe.</item>
+                  <item>
+                     <hi>16</hi> Iohn Webbe.</item>
+                  <item>
+                     <hi>17</hi> Iohn Humber.</item>
+                  <item>
+                     <hi>18</hi> William Burrowes.</item>
+                  <item>
+                     <hi>19</hi> Mathew Perchet.</item>
+                  <item>
+                     <hi>20</hi> Edward Keall.</item>
+                  <item>
+                     <hi>21</hi> Nicholas VVilliams.</item>
+                  <item>
+                     <hi>22</hi> Peter Bennet.</item>
+                  <item>
+                     <hi>23</hi> Leonard Nichols.</item>
+                  <item>
+                     <hi>24</hi> Robert Dame.</item>
+                  <item>
+                     <hi>25</hi> Iohn Iudſon.</item>
+                  <item>
+                     <hi>26</hi> William Barker.</item>
+                  <item>
+                     <hi>27</hi> William Barret.</item>
+                  <item>
+                     <hi>28</hi> William Ridge.</item>
+                  <item>
+                     <hi>29</hi> Ralphe Salter.</item>
+                  <item>
+                     <hi>30</hi> Ieremy Gaufe.</item>
+                  <item>
+                     <hi>31</hi> Henry Thickpenny.</item>
+                  <item>
+                     <hi>32</hi> Henry Brigges.</item>
+                  <item>
+                     <hi>33</hi> Rice Williams.</item>
+                  <item>
+                     <hi>34</hi> Martine Topſaile.</item>
+                  <item>
+                     <hi>35</hi> M. VVilli. Bradbanke</item>
+                  <item>
+                     <hi>36</hi> Richard Androwes.</item>
+                  <item>
+                     <hi>37</hi> M. Tho: Pulle<g ref="char:cmbAbbrStroke">̄</g> preach.</item>
+                  <item>
+                     <hi>38</hi> Ieames Fullar.</item>
+                  <item>
+                     <hi>39</hi> William Winter.</item>
+                  <item>
+                     <hi>40</hi> William Hall.</item>
+                  <item>
+                     <hi>41</hi> Iohn Hankin.</item>
+                  <item>
+                     <hi>42</hi> Richard Exame.</item>
+                  <item>
+                     <hi>43</hi> Robert Hill.</item>
+                  <item>
+                     <hi>44</hi> Iohn VVoodall.</item>
+                  <item>
+                     <hi>45</hi> Iohn Ieane.</item>
+                  <item>
+                     <hi>46</hi> Robert Keachinman.</item>
+                  <item>
+                     <hi>47</hi> Ieames Cauerly.</item>
+                  <item>
+                     <hi>48</hi> Iohn Hope.</item>
+                  <pb n="32" facs="tcp:14319:18"/>
+                  <item>
+                     <hi>49</hi> Iohn Trincall.</item>
+                  <item>
+                     <hi>50</hi> Iohn Duke.</item>
+                  <item>
+                     <hi>51</hi> Martaine Corneliſon.</item>
+                  <item>
+                     <hi>52</hi> Launſlet Taylor.</item>
+                  <item>
+                     <hi>53</hi> Iohn Settell.</item>
+                  <item>
+                     <hi>54</hi> William Burrowes.</item>
+                  <item>
+                     <hi>55</hi> Perceuall Stradling.</item>
+                  <item>
+                     <hi>56</hi> Iohn Harrice.</item>
+                  <item>
+                     <hi>57</hi> Frauncis Pormoth.</item>
+                  <item>
+                     <hi>58</hi> Edward Baddiford.</item>
+                  <item>
+                     <hi>59</hi> Thomas Price.</item>
+                  <item>
+                     <hi>60</hi> Phillip Goulding.</item>
+                  <item>
+                     <hi>61</hi> Roger Morrice.</item>
+                  <item>
+                     <hi>62</hi> Stephen Burdall.</item>
+                  <item>
+                     <hi>63</hi> Nicholas Ragwood.</item>
+                  <item>
+                     <hi>64</hi> George Wattes.</item>
+                  <item>
+                     <hi>65</hi> Myles Berry.</item>
+                  <item>
+                     <hi>66</hi> William Mounke.</item>
+               </list>
+               <list>
+                  <head>A note of the mens names decea<g ref="char:EOLhyphen"/>ſed out of the <hi>Hector.</hi>
+                  </head>
+                  <item>
+                     <hi>1</hi> Iohn Robinſon.</item>
+                  <item>
+                     <hi>2</hi> Thomas Daſſell.</item>
+                  <item>
+                     <hi>3</hi> Ieames Iefferes.</item>
+                  <item>
+                     <hi>4</hi> Morrice Webbe.</item>
+                  <item>
+                     <hi>5</hi> Mathew Starkey.</item>
+                  <item>
+                     <hi>6</hi> Iohn Middleton.</item>
+                  <item>
+                     <hi>7</hi> Thomas Appollow.</item>
+                  <item>
+                     <hi>8</hi> Iohn Fiſhaker.</item>
+                  <item>
+                     <hi>9</hi> George Parſons.</item>
+                  <item>
+                     <hi>10</hi> Walter Cobbe.</item>
+                  <item>
+                     <hi>11</hi> Edward Holte.</item>
+                  <item>
+                     <hi>12</hi> Richard Marſhall.</item>
+                  <item>
+                     <hi>13</hi> Iohn Oſſeuer.</item>
+                  <item>
+                     <hi>14</hi> Morrice Hammont.</item>
+                  <item>
+                     <hi>15</hi> Thomas Wilkinſon.</item>
+                  <item>
+                     <hi>16</hi> William Iones.</item>
+                  <item>
+                     <hi>17</hi> Edmund Faurcliffe.</item>
+                  <item>
+                     <hi>18</hi> Roger Moore.</item>
+                  <item>
+                     <hi>19</hi> Robert Aſhplie.</item>
+                  <item>
+                     <hi>20</hi> Peter Iohnſon.</item>
+                  <item>
+                     <hi>21</hi> Adam Children.</item>
+                  <item>
+                     <hi>22</hi> Robert Burche.</item>
+                  <item>
+                     <hi>23</hi> Henry Great.</item>
+                  <item>
+                     <hi>24</hi> Nicholas Franke.</item>
+                  <item>
+                     <hi>25</hi> William Predam.</item>
+                  <item>
+                     <hi>26</hi> Emanuell Sims.</item>
+                  <item>
+                     <hi>27</hi> Iohn Harris.</item>
+                  <item>
+                     <hi>28</hi> Maiſt. Henry Napper.</item>
+                  <pb n="33" facs="tcp:14319:18"/>
+                  <item>
+                     <hi>29</hi> Chriſtopher Cadde.</item>
+                  <item>
+                     <hi>30</hi> Thomas Pinchbanke.</item>
+                  <item>
+                     <hi>31</hi> Rowland Hils.</item>
+                  <item>
+                     <hi>32</hi> Oliuer Adams.</item>
+                  <item>
+                     <hi>33</hi> Iohn Endick, Maiſter.</item>
+                  <item>
+                     <hi>34</hi> Iohn Ruſſell.</item>
+                  <item>
+                     <hi>35</hi> Iohn Martin.</item>
+                  <item>
+                     <hi>36</hi> Iohn Coman.</item>
+                  <item>
+                     <hi>37</hi> Iohn Holliday.</item>
+               </list>
+               <list>
+                  <head>A note of the mens names decea<g ref="char:EOLhyphen"/>ſed out of the <hi>Aſcention.</hi>
+                  </head>
+                  <item>
+                     <hi>1</hi> William Leake.</item>
+                  <item>
+                     <hi>2</hi> William Pizing.</item>
+                  <item>
+                     <hi>3</hi> William Whitting.</item>
+                  <item>
+                     <hi>4</hi> Gabriell Stone.</item>
+                  <item>
+                     <hi>5</hi> William Hambling.</item>
+                  <item>
+                     <hi>6</hi> Edward Carricke.</item>
+                  <item>
+                     <hi>7</hi> Arnold Malyn.</item>
+                  <item>
+                     <hi>8</hi> William Morgan.</item>
+                  <item>
+                     <hi>9</hi> Robert Sauadge.</item>
+                  <item>
+                     <hi>10</hi> Iohn Verker.</item>
+                  <item>
+                     <hi>11</hi> Richard Burrice.</item>
+                  <item>
+                     <hi>12</hi> Iohn Griffeth.</item>
+                  <item>
+                     <hi>13</hi> Michaell Nicholſon.</item>
+                  <item>
+                     <hi>14</hi> Iohn Fare.</item>
+                  <item>
+                     <hi>15</hi> Thomas Daurell.</item>
+                  <item>
+                     <hi>16</hi> Iohn Rowe.</item>
+                  <item>
+                     <hi>17</hi> Robert Double.</item>
+                  <item>
+                     <hi>18</hi> Robert Cooper.</item>
+                  <item>
+                     <hi>19</hi> Iohn Hampton.</item>
+                  <item>
+                     <hi>20</hi> Thomas Cocklim.</item>
+                  <item>
+                     <hi>21</hi> William Betty.</item>
+                  <item>
+                     <hi>22</hi> Robert Batman.</item>
+                  <item>
+                     <hi>23</hi> Iohn Badby.</item>
+                  <item>
+                     <hi>24</hi> Richard Horton.</item>
+                  <item>
+                     <hi>25</hi> Iohn Syclemore.</item>
+                  <item>
+                     <hi>26</hi> William Williamſon.</item>
+                  <item>
+                     <hi>27</hi> Richard Hamond.</item>
+                  <item>
+                     <hi>28</hi> Thomas Eueret.</item>
+                  <item>
+                     <hi>29</hi> Auguſtin Iordan.</item>
+                  <item>
+                     <hi>30</hi> Thomas Way.</item>
+                  <item>
+                     <hi>31</hi> Methewſale<g ref="char:cmbAbbrStroke">̄</g> Mountioy</item>
+                  <item>
+                     <hi>32</hi> William Brune Capt.</item>
+                  <item>
+                     <hi>33</hi> Thomas VVard.</item>
+                  <item>
+                     <hi>34</hi> Thomas Scriuen.</item>
+                  <item>
+                     <hi>35</hi> William Maler.</item>
+                  <item>
+                     <hi>36</hi> Robert Pope, Captain.</item>
+                  <item>
+                     <hi>37</hi> Iohn Reddoe.</item>
+                  <item>
+                     <hi>38</hi> Thomas Salter.</item>
+               </list>
+               <list>
+                  <pb n="34" facs="tcp:14319:19"/>
+                  <head>A note of the mens names decea<g ref="char:EOLhyphen"/>ſed out of the <hi>Suſan.</hi>
+                  </head>
+                  <item>
+                     <hi>1</hi> Henry Page.</item>
+                  <item>
+                     <hi>2</hi> Chriſtopher Scult.</item>
+                  <item>
+                     <hi>3</hi> Iohn Church.</item>
+                  <item>
+                     <hi>4</hi> Iohn Foſter.</item>
+                  <item>
+                     <hi>5</hi> Edward Seely.</item>
+                  <item>
+                     <hi>6</hi> Martaine Ioxes.</item>
+                  <item>
+                     <hi>7</hi> Gilbert Crippin.</item>
+                  <item>
+                     <hi>8</hi> Richard Pope.</item>
+                  <item>
+                     <hi>9</hi> Iohn Smith.</item>
+                  <item>
+                     <hi>10</hi> Marchus Floud.</item>
+                  <item>
+                     <hi>11</hi> Nicholas Sims.</item>
+                  <item>
+                     <hi>12</hi> Edward Steele.</item>
+                  <item>
+                     <hi>13</hi> Richard Bowyer.</item>
+                  <item>
+                     <hi>14</hi> Michaell Allen.</item>
+                  <item>
+                     <hi>15</hi> Richard Smally.</item>
+                  <item>
+                     <hi>16</hi> Thomas VVilſon.</item>
+                  <item>
+                     <hi>17</hi> Richard Spencer.</item>
+                  <item>
+                     <hi>18</hi> Thomas Ioanes.</item>
+                  <item>
+                     <hi>19</hi> Ieames Sket.</item>
+                  <item>
+                     <hi>20</hi> Richard Whitehead.</item>
+                  <item>
+                     <hi>21</hi> Robert Michel.</item>
+                  <item>
+                     <hi>22</hi> Iohn Earle.</item>
+                  <item>
+                     <hi>23</hi> Chriſtopher Androws</item>
+                  <item>
+                     <hi>24</hi> Iacob Iohnſon.</item>
+                  <item>
+                     <hi>25</hi> Anthony Younger.</item>
+                  <item>
+                     <hi>26</hi> Robert Powell.</item>
+                  <item>
+                     <hi>27</hi> Iohn Biſhop.</item>
+                  <item>
+                     <hi>28</hi> Morgan Priddis.</item>
+                  <item>
+                     <hi>29</hi> William Haward.</item>
+                  <item>
+                     <hi>30</hi> Richard Sprat.</item>
+                  <item>
+                     <hi>31</hi> Henry Iohnſon.</item>
+                  <item>
+                     <hi>32</hi> Richard Egleſton.</item>
+                  <item>
+                     <hi>33</hi> Ieames Vpgraue.</item>
+                  <item>
+                     <hi>34</hi> Iohn Goulding.</item>
+                  <item>
+                     <hi>35</hi> Iohn Browne.</item>
+                  <item>
+                     <hi>36</hi> Iohn Haward Cap.</item>
+                  <item>
+                     <hi>37</hi> Phillip Winſcombe.</item>
+                  <item>
+                     <hi>38</hi> Iohn Samon.</item>
+                  <item>
+                     <hi>39</hi> Iohn Fouſticke.</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:14319:19"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
